@@ -63,7 +63,7 @@
     "@angular/material": "~11.2.13",
     "@angular/platform-browser": "~11.2.14",
     "@angular/platform-browser-dynamic": "~11.2.14",
-    "@angular/router": "~11.2.0",
+    "@angular/router": "~11.2.14",
     "@datorama/akita": "^6.0.0",
     "@datorama/akita-ng-entity-service": "^6.0.0",
     "core-js": "^3.8.3",
