@@ -67,7 +67,7 @@
     "@datorama/akita": "^6.0.0",
     "@datorama/akita-ng-entity-service": "^6.0.0",
     "core-js": "^3.8.3",
-    "ngx-markdown": "^11.0.1",
+    "ngx-markdown": "^14.0.0",
     "ngx-take-until-destroy": "^5.4.0",
     "rxjs": "~6.5.4",
     "tslib": "^2.1.0",
